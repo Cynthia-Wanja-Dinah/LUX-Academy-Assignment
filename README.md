@@ -4,7 +4,9 @@ Question 1). Imagine you're working with Sprint, one of the biggest telecom comp
 
 So, if you were in charge of predicting customer churn how would you go about using machine learning to make a good guess about which customers might leave? Like, what steps would you take to create a machine learning model that can predict if someone's going to leave or not?
 
-#steps That a Datascientist would take to create a Machine Learning Model 
+# steps That a Datascientist would take to create a Machine Learning Model 
+
+
 step 1: Understanding Business problem
     Meet with stakeholders at Sprint to understand the specific business goals . Establish key performance indicators (KPIs) related to customer retention.
     past data about when customers have left before, as well as info about who these customers are, what they've bought, and other things like that.
